@@ -168,7 +168,7 @@ Repository Structure
 
 ├── notebooks/  
 │   └── chicago_crime_pipeline.ipynb  
-├── report/  
+├── reports/  
 │   └── public_safety_analysis_report.pdf  
 ├── presentation/  
 │   └── final_presentation.pdf  
